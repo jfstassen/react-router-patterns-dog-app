@@ -2,4 +2,4 @@
 npm start
 
 screenshots:
-[image](https://i.imgur.com/22K82s1.jpg)
+![image](https://i.imgur.com/22K82s1.jpg)
