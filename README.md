@@ -1,7 +1,11 @@
-### Just an example of routing in react
-npm start
+# A dead simple routing example with React Router
+Inspired by Colt steele, November 2019
 
-screenshots:
-![image](https://i.imgur.com/22K82s1.jpg)
+## Install
+	```npm install```
+	
+## Tech
+- React-Router
 
-Credits: Inspired by Colt Steele
+![Image](https://i.imgur.com/22K82s1.jpg)
+[Deployed on Netlify](https://amazing-shirley-3afdf2.netlify.com/)
