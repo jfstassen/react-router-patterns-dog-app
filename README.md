@@ -2,7 +2,7 @@
 Inspired by Colt steele, November 2019
 
 ## Install
-	```npm install```
+	npm install
 	
 ## Tech
 - React-Router
